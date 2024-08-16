@@ -1,4 +1,4 @@
-# importaçãoes das bibliotecas
+# importações das bibliotecas
 
 import os
 
