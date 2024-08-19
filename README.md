@@ -6,4 +6,5 @@
  OBS: Certifique-se de ter todas as bibliotecas instaladas e feito o download das imagens
 
 
-[Foto do projeto]![foto do projeto](https://github.com/user-attachments/assets/07a63c8e-49bb-4609-b2ce-afa0a2f23811)
+[Foto do projeto] 
+![foto do projeto](https://github.com/user-attachments/assets/67fca4ed-4eb9-47ad-bbdf-374efefec54c)
